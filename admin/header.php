@@ -1,5 +1,4 @@
 <?php
-session_start();
 require("config.php");
 ////code
  
@@ -13,10 +12,10 @@ if(!isset($_SESSION['auser']))
 				<!-- Logo -->
                 <div class="header-left">
                     <a href="dashboard.php" class="logo">
-						<img src="assets/img/logo.png" alt="Logo">
+					Admin
 					</a>
 					<a href="dashboard.php" class="logo logo-small">
-						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
+						Admin
 					</a>
                 </div>
 				<!-- /Logo -->

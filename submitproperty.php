@@ -426,7 +426,7 @@ if(isset($_POST['add']))
 													</div>
 												</div>
 												<div class="form-group row">
-													<label class="col-lg-3 col-form-label">image 3</label>
+													<label class="col-lg-3 col-form-label">Image 3</label>
 													<div class="col-lg-9">
 														<input class="form-control" name="aimage3" type="file" required="">
 													</div>

@@ -94,7 +94,12 @@ include("config.php");
                 <div class="row about-company">
                     <div class="col-md-12 col-lg-7">
                         <div class="about-content">
-                            <?php echo $row['2'];?>
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam, architecto? Molestiae in aliquam reiciendis labore? A numquam at harum nisi repellat velit omnis libero consequuntur, ullam quasi tenetur optio fugit.
+                            Dolorem eveniet explicabo natus voluptatibus recusandae.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum iure, maiores vitae ut est, ab quo mollitia sint, molestias temporibus nostrum amet accusamus saepe eum dignissimos quos deserunt doloremque quia.
+                            Incidunt perferendis suscipit architecto explicabo. Repellat dolorem, nobis expedita aperiam dicta quam! Corporis ex quam perferendis provident a odio culpa atque id fuga, rerum soluta, cumque totam animi consectetur eligendi.
+                            Necessitatibus, cupiditate dolores ipsum beatae nostrum autem aliquam provident nobis, quam facere hic expedita velit atque dicta voluptate. Consectetur minima iure quo consequuntur quae adipisci atque porro a omnis esse!
+                            Expedita hic labore alias, mollitia eos voluptatum tempora suscipit itaque, velit aut, deserunt ex repellendus asperiores. Nostrum beatae animi architecto, optio blanditiis vitae, incidunt totam praesentium accusantium natus quasi eveniet.
+                            Explicabo commodi, officiis minus laborum quis quo, voluptate fugit qui quae impedit vitae a, omnis tempora rem nemo rerum. Dolor eos minima vitae officia earum veniam nemo accusantium ab saepe!
                         </div>
                     </div>
                     <div class="col-md-12 col-lg-5 mt-5">

@@ -19,7 +19,6 @@ if(!isset($_SESSION['uemail']))
 
 <!-- Meta Tags -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="shortcut icon" href="images/favicon.ico">
 
 <!--	Fonts
 	========================================================-->
@@ -41,7 +40,7 @@ if(!isset($_SESSION['uemail']))
 
 <!--	Title
 	=========================================================-->
-<title>Homex - Real Estate Template</title>
+<title>Real Estate </title>
 </head>
 <body>
 
@@ -123,7 +122,7 @@ if(!isset($_SESSION['uemail']))
                                         <h5 class="text-secondary text-capitalize"><a href="propertydetail.php?pid=<?php echo $row['0'];?>"><?php echo $row['1'];?></a></h5>
                                         <span class="font-14 text-capitalize"><i class="fas fa-map-marker-alt text-primary font-13"></i>&nbsp; <?php echo $row['14'];?></span>
                                         <div class="price mt-3">
-											<span class="text-primary">$&nbsp;<?php echo $row['13'];?></span>
+											<span class="text-primary">Rs.&nbsp;<?php echo $row['13'];?></span>
 										</div>
                                     </div>
 								</td>
